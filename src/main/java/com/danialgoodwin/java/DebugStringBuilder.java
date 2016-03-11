@@ -40,6 +40,12 @@ public abstract class DebugStringBuilder {
         return this;
     }
 
+    /** Clear contents of text. */
+    public DebugStringBuilder remove() {
+        mDebugStringBuilder.setLength(0);
+        return this;
+    }
+
     @Override
     public String toString() {
         return mDebugStringBuilder.toString();
