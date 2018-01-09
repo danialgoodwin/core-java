@@ -3,6 +3,7 @@
  */
 package com.danialgoodwin.java.util;
 
+/** Helper methods related to collections. */
 public final class CollectionUtils {
 
     /** Suppress default constructor for non-instantiability. */
