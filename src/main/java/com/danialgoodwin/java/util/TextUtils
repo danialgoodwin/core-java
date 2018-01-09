@@ -1,3 +1,9 @@
+/**
+ * Created by Danial Goodwin on 2018-01-09.
+ */
+package com.danialgoodwin.java.util;
+
+/** Helper methods related to text. */
 public final class TextUtils {
 
     /** Suppress default constructor for non-instantiability. */
