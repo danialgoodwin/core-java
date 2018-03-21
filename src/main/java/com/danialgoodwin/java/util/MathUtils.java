@@ -1,3 +1,5 @@
+package com.danialgoodwin.java.util;
+
 /** Helper methods related to math. */
 public final class MathUtils {
 
